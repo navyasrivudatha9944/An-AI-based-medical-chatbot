@@ -63,6 +63,6 @@ Disclaimer
 
 This project is intended for educational and demonstration purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
 
-👩‍💻 Author
+Author
 
 Navya Sri Vudatha
